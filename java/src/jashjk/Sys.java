@@ -15,6 +15,7 @@ public class Sys {
 				}
 			}
 		}
+		System.out.println("11");
 		return nums;
 	}
 	
